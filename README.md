@@ -30,9 +30,9 @@ Purpose: Explore web scraping techniques and gather film reviews for analysis.
     - Open the `Review Letterboxd.ipynb` Jupyter Notebook.
     - Execute the code cells to scrape reviews from the provided Letterboxd URL.
     - The extracted data will be stored in a DataFrame.
-4. Data Analysis (Optional):
-    The notebook also includes an NLP section for analyzing the reviews. However, due to imbalanced data (too many 5-star ratings), the results may not be conclusive. You can explore alternative approaches or use a more diverse dataset for better insights.
 
 > [!WARNING]
-> Feel free to modify the code, add more features, or adapt it for other films.
-Remember to respect website terms of use and robots.txt guidelines when scraping data.
+> The notebook also includes an NLP section for analyzing the reviews. However, due to imbalanced data (too many 5-star ratings), the results may not be conclusive. You can explore alternative approaches or use a more diverse dataset for better insights.
+
+Feel free to modify the code, add more features, or adapt it for other films.
+Remember to respect website terms of use and guidelines when scraping data.
