@@ -15,7 +15,7 @@ Purpose: Explore web scraping techniques and gather film reviews for analysis.
     Clone this repository to your local machine using the following command:
 
     ```
-    git clone https://github.com/your-username/interstellar-reviews.git
+    git clone https://github.com/Alanjamlu34/NLP.git
     ```
 
 
