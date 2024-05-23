@@ -31,6 +31,8 @@ Purpose: Explore web scraping techniques and gather film reviews for analysis.
     - Execute the code cells to scrape reviews from the provided Letterboxd URL.
     - The extracted data will be stored in a DataFrame.
 
+![image](https://github.com/Alanjamlu34/NLP/assets/142156489/b181b774-79dc-4094-bf8a-47518b342279)
+
 > [!WARNING]
 > The notebook also includes an NLP section for analyzing the reviews. However, due to imbalanced data (too many 5-star ratings), the results may not be conclusive. You can explore alternative approaches or use a more diverse dataset for better insights.
 
